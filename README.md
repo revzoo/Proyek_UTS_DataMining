@@ -1,9 +1,15 @@
 # 🩺 Proyek UTS Data Mining: Prediksi Penyakit Berdasarkan Gejala
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/revzoo/Proyek_UTS_DataMining)
 
 ### 🌐 Live Demo (Streamlit Community Cloud)
 Aplikasi ini sudah di-deploy dan dapat diakses secara langsung melalui tautan berikut:
 
-👉 **[https://triasegejalamandiri.streamlit.app/](https://triasegejalamandiri.streamlit.app/)**
+👉 **[DEMO Klik disni](https://triasegejalamandiri.streamlit.app/)**
+
+### 📓 Notebook Pelatihan Model (Google Colab)
+Proses eksperimen, eksplorasi data, dan pelatihan model dapat dilihat pada tautan berikut:
+
+👉 **[COLAB Klik disini](https://colab.research.google.com/drive/1V0GrvU5tZQbFhxFVfE33-Vm-44dprldr?usp=sharing)**
 
 ---
 
